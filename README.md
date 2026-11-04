@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestión Académica (SGA)
 
 Proyecto desarrollado durante la materia Programación IV.
@@ -97,3 +98,6 @@ backend
 Irina Agretti
 
 Programación IV
+=======
+# proyecto_SGA
+>>>>>>> origin/main
